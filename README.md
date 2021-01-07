@@ -1,7 +1,7 @@
 # Graduate-Project
-Machine Learning project for COVID-19.
+#Machine Learning project for COVID-19.
 </br>
-It includes multiple jupyter notebooks which showcase my work for Early Risk Assesment:
+##It includes multiple jupyter notebooks which showcase my work for Early Risk Assesment:
 </br>
 •	Data Extraction of the COVID-19 data which correlates to critical risk factors using BeautifulSoup, and Alberta Innovates COVID-19 Hackathon API. Data Transformation and Visualization using Pandas, Numpy, seaborn, matplotlib, plotly, etc.
 </br>
