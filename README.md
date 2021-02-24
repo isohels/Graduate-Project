@@ -11,3 +11,8 @@ It includes multiple jupyter notebooks which showcase my work for Early Risk Ass
 •	Use of univariate logistics regression, SVM, XGboost, Arima model from stats to forecast the total number of confirmed cases with accuracy greater than 90%.</br>
 # Please use the link below for viewing the code in full compatibility mode.
 [Please Click Here !](https://nbviewer.jupyter.org/)
+
+
+
+<img src="./Images/prediction.PNG">
+<img src="./Images/agegroupdistribution.PNG">
